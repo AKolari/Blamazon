@@ -1,0 +1,33 @@
+.hero{
+    background-image: url(/Project2/img/macbookAir.jpeg);
+    min-height: 85vh !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    height: 300px;
+}
+.card img{
+    margin-top: 15px;
+    max-height: 200px;
+    max-width: 200px;
+   
+    
+}
+
+.sidekick{
+    background-image: url(/Project2/img/S22.jpeg);
+    min-height: 85vh !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    
+}

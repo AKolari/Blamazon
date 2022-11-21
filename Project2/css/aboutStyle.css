@@ -1,0 +1,24 @@
+.hero{
+    background-image: url(/Project2/img/employee.jpeg);
+    min-height: 85vh !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.card{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    height: 500px;
+    color:aliceblue;
+    
+}
+p{
+    margin: 3px;
+}
+
+
