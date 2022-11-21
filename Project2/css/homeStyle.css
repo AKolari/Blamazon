@@ -1,5 +1,5 @@
 .hero{
-    background-image: url(/Project2/img/macbookAir.jpeg);
+    background-image: url(/Blamazon/Project2/img/macbookAir.jpeg);
     min-height: 85vh !important;
     background-repeat: no-repeat;
     background-position: center;
@@ -24,7 +24,7 @@
 }
 
 .sidekick{
-    background-image: url(/Project2/img/S22.jpeg);
+    background-image: url(/Blamazon/Project2/img/S22.jpeg);
     min-height: 85vh !important;
     background-repeat: no-repeat;
     background-position: center;
